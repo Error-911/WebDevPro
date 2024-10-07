@@ -1,0 +1,2 @@
+s = "shivam"
+print(s)
